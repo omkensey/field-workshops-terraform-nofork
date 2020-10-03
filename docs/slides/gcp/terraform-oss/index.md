@@ -336,10 +336,20 @@ Terraform can be used across *all* major cloud providers and VM hypervisors.
 **Every major cloud provider has their own JSON or YAML based provisioning tool. But all of them are written in YAML or JSON. And if you learn one of these systems, guess what, the others are completely different. Now if you want to have a multi-cloud strategy you have to learn three separate provisioning systems. With Terraform you are using the same language, the same simple syntax on all three of these cloud providers.**
 
 ---
-name: Config-Hell
-.center[![:scale 60%](images/Config_Hell.jpg)]
+name: Mark-Hamill
+.center[![:scale 50%](images/mark_hamill.png)
+
+######Original image: Gage Skidmore, CC BY-SA 3.0]
 ???
-**This is a fun web comic. Those of you who have spent hours poking at a nested JSON template, trying to figure out which layer of curly braces you are in will understand this...**
+**And of course when you mention markup code, Mark Hamill appears...**
+
+---
+name: Mark-YAML
+.center[![:scale 50%](images/mark_yaml.png)
+
+######Original image: Gage Skidmore, CC BY-SA 3.0]
+???
+**...to introduce his brother Mark YAML.**
 
 ---
 Name: Why-Terraform-on-GCP
